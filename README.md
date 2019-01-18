@@ -7,6 +7,6 @@ Input:
   hellow world!
 Output vars:
   hello world!
-  Hellow World
+  Hello World
   HELLO WORLD!
 
